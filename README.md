@@ -1,9 +1,14 @@
 ## Hi,  👋
 
-<p align="center"> 
-  <img style="margin: 2%;" src="https://github-readme-stats.vercel.app/api?username=ricardo-fo&show_icons=true&theme=radical&include_all_commits=true&layout=compact&hide=issues,prs" />
-  <img style="margin: 2%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-fo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
-</p>
+<div style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: space-between;">
+  <div style="flex-grow: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-fo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
+  </div>
+  
+  <div style="flex-grow: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ricardo-fo&show_icons=true&theme=radical&include_all_commits=true&layout=compact&hide=issues,prs" />
+  </div>
+</div>
 
 <!--
 **ricardo-fo/ricardo-fo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
