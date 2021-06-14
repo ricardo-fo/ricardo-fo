@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-fo&show_icons=true&theme=radical&include_all_commits=true&layout=compact&hide=issues,prs)
 
 <!--
 **ricardo-fo/ricardo-fo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
