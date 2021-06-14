@@ -1,8 +1,8 @@
 ## Hi,  👋
 
 <p align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardo-fo&show_icons=true&theme=radical&include_all_commits=true&layout=compact&hide=issues,prs" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-fo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
+  <img style="margin: 2%;" src="https://github-readme-stats.vercel.app/api?username=ricardo-fo&show_icons=true&theme=radical&include_all_commits=true&layout=compact&hide=issues,prs" />
+  <img style="margin: 2%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-fo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
 </p>
 
 <!--
