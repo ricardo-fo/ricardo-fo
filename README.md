@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ricardo 👋
+## Hi! I'm Ricardo 👋
 
 <table>
   <tr>
